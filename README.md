@@ -1,8 +1,10 @@
-## War of Cards 
+### War of Cards 
 
 ## What is it?
-- This is a two player game, and the aim is to collect all the cards. 
-- The two players of this game are Player1 and CPU. 
+- This is a single player game, and you will be playing against the computer as Player1. 
+- The aim is to collect all the cards. 
+- To start the game, press Y. 
+ 
 
 ## The rules of the game: 
 - In our game we will be using a random number generator to pick a card for Player 1 and CPU. 
@@ -17,4 +19,5 @@
 - So that it is eight cards in total! 
 - However, if third card drawn for the Card War matched the other player's card, then we have another Card War and three more cards are added! 
 - Again, the value of the card will be compared, and the card of higher value wins the player 14 cards!
+
 
