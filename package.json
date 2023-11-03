@@ -1,0 +1,15 @@
+{
+  "name": "warofcardsgame",
+  "version": "1.0.0",
+  "description": "## What is it? - This is a two player game, and the aim is to collect all the cards.  - The two players of this game are Player1 and CPU.",
+  "main": "cards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
