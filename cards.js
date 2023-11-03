@@ -12,6 +12,5 @@ let Player1 = cards[Math.floor(Math.random() * cards.length)] //
 // console.log(CPU)
 // console.log(Player1)
  
-console.log(cards.length)
 
-
+module.exports = {Player1, CPU};
